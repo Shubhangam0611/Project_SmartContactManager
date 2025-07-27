@@ -19,17 +19,23 @@ A Spring Boot-based web application that allows users to manage their personal c
 
 ##Project folder Structure
 
-Project_SmartContactManager
-
+Project_SmartContactManager/
 ├── src/
-│   └── main/
-│       ├── java/
-│       │   └── com/smart/  #config, controller, dao etc
-│       └── resources/
-│           ├── static/         # HTML, CSS, JS
-│           ├── templates/      # Thymeleaf templates
-│           └── application.properties
-├── readme.md
-├── otherfiles
-├── pom.xml 
-└──other files
+│ └── main/
+│ ├── java/
+│ │ └── com/
+│ │ └── smart/ #config,controller etc
+│ │ 
+│ │ 
+│ │
+│ │ 
+│ └── resources/
+│ ├── static/ # CSS, JS, images
+│ ├── templates/ # Thymeleaf HTML files
+│ └── application.properties 
+|
+|
+├── .gitignore
+├── README.md
+├── pom.xml
+└── other files...
