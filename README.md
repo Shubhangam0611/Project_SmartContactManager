@@ -1,4 +1,4 @@
-# Smart Contact Manager 📇
+# Smart Contact Manager  📇
 
 A Spring Boot-based web application that allows users to manage their personal contacts with a secure, user-friendly interface.
 
